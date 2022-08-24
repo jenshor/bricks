@@ -2,7 +2,7 @@ name: freezed_form
 description: A brick to create a freezed form class unsing the formz package.
 repository: https://github.com/jenshor/bricks
 
-version: 0.1.0+1
+version: 0.1.0+2
 
 environment:
   mason: ">=0.1.0-dev.26 <0.1.0"
