@@ -1,0 +1,13 @@
+name: freezed_form
+description: A brick to create a freezed form class unsing the formz package.
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.26 <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: Form name 
+    prompt: What is the name of the form?
