@@ -8,7 +8,9 @@ This package requires that you have the [formz](https://pub.dev/packages/formz) 
 
 ## How to use 🚀
 
+```bash
 mason make freezed_form --name login_form
+```
 
 ## Variables ✨
 
